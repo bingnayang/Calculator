@@ -1,0 +1,23 @@
+
+.row{
+    display: table;
+    table-layout: fixed;
+    width: 200px;
+}
+.column{
+    display: table-cell;
+}
+#display{
+    height: 80px;
+
+}
+#clearBtn{
+    width: 100px;
+}
+#zeroBtn{
+    width: 52.666667px;
+
+}
+.operator-button{
+    background-color: orange;
+}
